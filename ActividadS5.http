@@ -1,0 +1,6 @@
+@ActividadS5_HostAddress = http://localhost:5118
+
+GET {{ActividadS5_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
