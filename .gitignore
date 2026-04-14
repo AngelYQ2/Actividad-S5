@@ -83,3 +83,6 @@ x86/
 
 # Publish Web Output
 *.[Pp]ublish.xml
+
+#ignorar archivo
+appsettings.Development.json
